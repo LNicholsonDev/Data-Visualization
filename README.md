@@ -2,8 +2,7 @@
 
 # Marketing and Performance Analysis: </br>
 
-> **Context:**<br/>
-Businesses rely on insights from historical data to remain competitive and to effectively advertise to customers. Businesses can directly influence their customer engagement by choosing marketing strategies that align with what has worked historically to drive revenue. This analysis aims to explore key business questions using a structured data analysis workflow defined by Murach et al. Leveraging historical performance data, a business can refine its marketing strategies, optimize spending, and guide decision-making for greater future success.<br/>
+**Context:** Businesses rely on insights from historical data to remain competitive and to effectively advertise to customers. Businesses can directly influence their customer engagement by choosing marketing strategies that align with what has worked historically to drive revenue. This analysis aims to explore key business questions using a structured data analysis workflow defined by Murach et al. Leveraging historical performance data, a business can refine its marketing strategies, optimize spending, and guide decision-making for greater future success.<br/>
 
 **Cleaning Data/Initial Analysis:** Defining goals, asking business questions, definition of target audience, data analysis and visualization descriptions</br>
 
