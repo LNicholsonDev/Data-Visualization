@@ -1,38 +1,41 @@
-# Data-Visualization
+# Data Visualization & Analysis
 
-# Marketing and Performance Analysis: </br>
+Exploratory data analysis and visualization across business performance, 
+public health, and environmental datasets. 
 
-**Context:** Businesses rely on insights from historical data to remain competitive and to effectively advertise to customers. Businesses can directly influence their customer engagement by choosing marketing strategies that align with what has worked historically to drive revenue. This analysis aims to explore key business questions using a structured data analysis workflow defined by Murach et al. Leveraging historical performance data, a business can refine its marketing strategies, optimize spending, and guide decision-making for greater future success.<br/>
+Each project follows a consistent analytical workflow: data acquisition and cleaning, 
+exploratory analysis, visualization, and interpretation of findings.
 
-**Cleaning Data/Initial Analysis:** Defining goals, asking business questions, definition of target audience, data analysis and visualization descriptions</br>
+---
 
-**Full Analysis:** Importing data and viewing, inspecting shape/dtypes/column names/descriptions, dropping unnecessary columns, detecting duplicates, preparing data with preliminary investigations, distributions, plots, ROI, Correlation Heatmaps, isolation of bins and labels, analyzing by product categories, answering business questions, and visualizing using barplots, scatterplots, heatmaps, linecharts, and more. </br>
+## Projects
 
+| Project | Domain | Description | Tools |
+|---|---|---|---|
+| [Marketing & Product Performance](./Leah_Nicholson_Business_Case_Study.ipynb) | Business | End-to-end business analysis — ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations | Pandas · Seaborn · Matplotlib |
+| [Child Mortality Trends 1900–2020](./MortalityAnalysis) | Public Health | 120-year longitudinal analysis across four pediatric age groups, isolating the 1918 influenza anomaly against the long structural decline | Seaborn · Matplotlib |
+| [Car Dealership Inventory Analysis](./CarInventory_DataAnalysis) | Automotive | Pricing distributions, body type and engine sizing trends, and curb weight analysis across dealership inventory | Pandas · Matplotlib |
+| [Forest Fires by State 1992–2015](./ForestFires_DataPreparation) | Environmental | Decade-averaged fire counts, acres burned, and burn duration by state, structured for long-range disaster planning insight | Pandas |
 
-# Mortality Data Analysis: </br>
+---
 
-**Overview:** This project was an analysis of child mortality data of four age groups (1-4, 5-9, 10-14, and 15-19) for the years between 1900 and 2020. The data show a steady decline in child mortality, with an exception of the Spanish Pandemic Flu near 1920.</br>
+## Stack
 
-**Cleaning Data/Initial Analysis:** Getting long and wide data, reading files, working with long data, renaming columns, accessing subsets of data using queries, sorting, calculating statistics, grouping, working with wide data, aggregation and statistics, line plots</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Full Analysis:** Reading data into dataframe, utilizing seaborn to create annotated line plots, bar charts, box plots, bar plots, categorical plots, histograms, ecdf plots, KDE plots and subplots, line charts with confidence intervals, line charts with style, line plots for selected years (subset of data), and more.</br> 
+---
 
+## Repository Structure
 
-# Cars Inventory Data Analysis: </br>
-
-**Overview:** This project provides analysis for a car dealership's inventory. Trends in pricing, body type, aspiration, engine size, and curb weights are provided.</br>
-
-**Cleaning Data:**  Loading and displaying data, examining for missing info, inspecting dtypes, investigating unique values and associated value_counts, fixing spelling and capitalization problems in the dataframe, renaming and dropping columns, and verifying changes. </br>
-
-**Analysis:** Consisting of importing data, melting data to combine columns, creating scatterplots, ranking data, binning data with quantiles, grouping and aggregating data, unstacking, utilizing pivot_tables, plotting, and verification checks along the way.  </br>
-
-
-# Forest Fires Data Preparation: </br>
-**Overview:** This project was an analysis of forest fires by state for the years 1992 to 2015. Provides information about acres_burned, days_burning, fire_counts averaged, rounded, and displayed as decades for each state. </br>
-
-This helps us visualize trends in forest fires long term, which can aid in disaster planning and preparation efforts. </br>
-
-**Prepare Data:** Importing and viewing data, adding and modifying columns, lambda expressions to define new columns, conversion of types, applying functions, working with index and multi-indexes, unstacking, resetting indexes, combining data, fixing warnings. </br>
-
-**Processing Data:** Grouping and aggregating, dropping unnecessary columns, using pivot tables, working with bins, creating new columns.
-
+```
+Data-Visualization/
+├── Leah_Nicholson_Business_Case_Study.ipynb    # Marketing analysis
+├── MortalityAnalysis/                          # Child mortality project
+├── CarInventory_DataAnalysis/                  # Dealership inventory project
+└── ForestFires_DataPreparation/                # Wildfire trends project
+```
