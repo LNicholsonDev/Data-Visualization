@@ -11,7 +11,7 @@ exploratory analysis, visualization, and interpretation of findings.
 
 | Project | Domain | Description | Tools |
 |---|---|---|---|
-| [Marketing & Product Performance](./Leah_Nicholson_Business_Case_Study.ipynb) | Business | End-to-end business analysis — ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations | Pandas · Seaborn · Matplotlib |
+| [Marketing & Product Performance](./Leah_Nicholson_Business_Case_Study.ipynb) | Business | End-to-end business analysis - ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations | Pandas · Seaborn · Matplotlib |
 | [Child Mortality Trends 1900–2018](./MortalityAnalysis) | Public Health | 119-year longitudinal analysis across four pediatric age groups, isolating the 1918 influenza anomaly against the long structural decline | Seaborn · Matplotlib |
 | [Car Dealership Inventory Analysis](./CarInventory_DataAnalysis) | Automotive | Pricing distributions, body type and engine sizing trends, and curb weight analysis across dealership inventory | Pandas · Matplotlib |
 | [Forest Fires by State 1992–2015](./ForestFires_DataPreparation) | Environmental | Decade-averaged fire counts, acres burned, and burn duration by state, structured for long-range disaster planning insight | Pandas |
