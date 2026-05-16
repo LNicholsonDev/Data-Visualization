@@ -12,18 +12,18 @@ the second.
 
 The decade-level aggregation surfaces patterns not visible in annual 
 snapshots. Alaska's 2000s decade represents the highest burn volume 
-of any state in any period in the dataset — 18.9 million acres across 
+of any state in any period in the dataset - 18.9 million acres across 
 974 fires. The 2010s partial decade (2010–2015) already shows 8.4 
 million acres for Alaska alone, with 2015 accounting for 5.1 million 
 of those acres across 340 fires and 16,636 days burning.
 
 Fire count and acreage do not reliably correlate. California recorded 
 819 fires in 1992 with 289K acres burned; Alaska recorded 144 fires 
-in 1993 with 687K acres — a pattern that holds across the dataset and 
+in 1993 with 687K acres - a pattern that holds across the dataset and 
 illustrates why fire count alone is a poor proxy for fire severity.
 
 Fire activity is strongly seasonal. Alaska peak burn months are June 
-and July, with June 1997 recording approximately 1.6 million acres — 
+and July, with June 1997 recording approximately 1.6 million acres - 
 the most striking single-month outlier visible in the prepared data.
 
 ---
