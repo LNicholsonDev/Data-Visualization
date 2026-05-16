@@ -10,8 +10,8 @@ analysis; the second contains the full visualization suite.
 ## Key Findings
 
 Total childhood mortality across all four age groups fell from 3,233 
-deaths per 100k in 1900 to 99.6 per 100k in 2018 (a decline of over 
-96%). The 1–4 age group had the highest absolute death rate throughout 
+deaths per 100k in 1900 to 99.6 per 100k in 2018 - a decline of over 
+96%. The 1–4 age group had the highest absolute death rate throughout 
 the dataset (1,983.8 per 100k in 1900), declining to 24.0 per 100k 
 by 2018.
 
